@@ -1,0 +1,6 @@
+[Cultura] -----< Produção >----- [Estado]
+    |                             |
+    v                             v
+[id_cultura]               [id_estado]
+[nome]                     [nome]
+[tipo]                     [codigo_ibge]

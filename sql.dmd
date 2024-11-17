@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sql" id="D66D07BD-3E5A-794A-69AC-8C833075F46F" version="3.5">
+<createdBy>linux</createdBy>
+<createdTime>2024-11-13 22:28:50 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D66D07BD-3E5A-794A-69AC-8C833075F46F</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="1C096548-A468-7668-2A40-F813E1B65AAD">
+<designStoragePath>C:\gerar_tabela</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
